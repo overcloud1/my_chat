@@ -1,0 +1,22 @@
+{
+  "name": "my_chat",
+  "version": "0.0.1",
+  "description": "chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/overcloud1/my_chat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "https://github.com/overcloud1/my_chat.git",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/overcloud1/my_chat/issues"
+  },
+  "homepage": "https://github.com/overcloud1/my_chat#readme"
+}
