@@ -1,6 +1,6 @@
 {
-  "name": "my_chat",
-  "version": "0.0.1",
+  "name": "my_chat_npm",
+  "version": "0.0.2",
   "description": "chat",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/overcloud1/my_chat/issues"
   },
-  "homepage": "https://github.com/overcloud1/my_chat#readme"
+  "homepage": "https://github.com/overcloud1/my_chat#readme",
+  "dependencies": {
+    "user": "0.0.0"
+  }
 }
