@@ -1,6 +1,6 @@
 {
   "name": "my_chat_npm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "chat",
   "main": "index.js",
   "scripts": {
